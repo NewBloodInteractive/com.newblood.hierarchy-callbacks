@@ -1,5 +1,5 @@
 {
-    "name": "OnHierarchyGUI",
+    "name": "SceneHierarchyCallbacks",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
