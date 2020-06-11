@@ -1,0 +1,7 @@
+{
+  "name": "com.newblood.hierarchy-callbacks",
+  "displayName": "Scene Hierarchy Callbacks",
+  "description": "Allows customization of the scene hierarchy tree through callbacks.",
+  "version": "1.0.0",
+  "type": "library"
+}
