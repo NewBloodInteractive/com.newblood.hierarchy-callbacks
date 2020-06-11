@@ -1,5 +1,5 @@
 {
-    "name": "SceneHierarchyCallbacks",
+    "name": "SceneHierarchyCallbacks.Editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
