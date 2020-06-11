@@ -22,7 +22,7 @@ namespace NewBlood.Editor
                 var data = window.sceneHierarchy.treeView.data;
                 var item = new GameObjectTreeViewItem(data.FindItem(instanceID));
 
-                if (item.objectPPTR is GameObject gameObject)
+                if (item.objectPPTR is GameObject gameObject && gameObject)
                 {
                     gameObject.GetComponents(s_Receivers);
 
